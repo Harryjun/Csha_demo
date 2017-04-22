@@ -1,0 +1,8 @@
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\bin\Debug\Application_usart.exe
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\bin\Debug\Application_usart.pdb
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.Form1.resources
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.exe
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.pdb
